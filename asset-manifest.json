@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wuziqi/static/css/main.2cb9a270.css",
+    "main.js": "/wuziqi/static/js/main.19c52554.js",
+    "index.html": "/wuziqi/index.html",
+    "main.2cb9a270.css.map": "/wuziqi/static/css/main.2cb9a270.css.map",
+    "main.19c52554.js.map": "/wuziqi/static/js/main.19c52554.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cb9a270.css",
+    "static/js/main.19c52554.js"
+  ]
+}
